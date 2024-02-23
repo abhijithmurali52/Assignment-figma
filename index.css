@@ -1,0 +1,31 @@
+.box {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); 
+    margin: 3rem; 
+    padding: 3rem; 
+}
+.heading{
+   
+    text-align: center;
+    padding: 20px;
+    background: rgba(239, 255, 244, 1);
+    color: green;
+}
+
+.signin{
+    border-radius: 50px;
+    height: 2.5rem;
+}
+.divstyle{
+    text-align: center;   
+}
+.image{
+    max-width: 100%; 
+    height: auto; 
+    display: block; 
+    margin: 0 auto; 
+}
+.xmark{
+
+   float: right;
+   margin-bottom: 100px;
+}
